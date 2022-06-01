@@ -51,3 +51,4 @@ SQL 12. Ödevi
       GROUP BY customer.first_name, customer.last_name, payment.customer_id
       ORDER BY alisveris_sayisi DESC;
 ```
+
